@@ -1,0 +1,4 @@
+host=localhost
+port=2555
+directory=/home/nau/share/from
+localDirectory=/home/nau/share/to
